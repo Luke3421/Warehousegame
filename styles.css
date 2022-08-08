@@ -1,0 +1,71 @@
+*{
+    background-color: gray;
+    margin: 0;
+}
+#title{
+    font-family: serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+#score{
+    font-family: serif;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+    
+}
+#State{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+      
+}
+
+#mytable{
+    border-style: solid;
+    background-color: lightgray;    
+    
+}
+h3{
+    font-family: serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+    
+}
+h1{
+    font-family: serif;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+ul{
+   padding: 20px;
+   font-family: serif;
+   font-size: 20px;
+   color: white;
+   text-align: center;
+   list-style:none;
+}
+
+a{
+   text-decoration: none;
+   padding-left: 10px;
+   color: lightblue;
+   
+}
+#buttons{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    
+    
+}
+
